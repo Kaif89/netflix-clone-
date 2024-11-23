@@ -4,9 +4,7 @@ This project is a Netflix Clone built using HTML and CSS to replicate the look a
 Features
 Header Section: A fully responsive navigation bar similar to Netflix, with a logo, search bar, and profile icon.
 Hero Section: A visually appealing hero banner showcasing a featured movie or series with call-to-action buttons.
-Content Rows: Horizontal scrollable rows of movie/series thumbnails, categorized by genre or type.
-Hover Effects: Interactive hover effects on thumbnails to display additional information (e.g., title, play button).
-Footer: A footer with links to terms, privacy policy, and other useful information.
+
 Folder Structure
 
 
